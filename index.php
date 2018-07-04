@@ -1,6 +1,6 @@
 <?
 $a=1;
-echo "Hello world!!!";
+echo "Hello world ееебойййй!!!";
 echo $a;
-
+echo "123";
 ?>
